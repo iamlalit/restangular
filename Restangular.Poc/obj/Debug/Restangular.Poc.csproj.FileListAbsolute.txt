@@ -1,0 +1,83 @@
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\Restangular.Poc.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\Restangular.Poc.pdb
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\AspNet.ScriptManager.jQuery.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.AspNet.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.Core.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OAuth.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OpenId.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\EntityFramework.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\Microsoft.Web.Infrastructure.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\System.Web.Providers.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\EntityFramework.xml
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.Core.xml
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OAuth.xml
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OpenId.xml
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Restangular.Poc\AngularJs.Training.Session3\bin\DotNetOpenAuth.AspNet.xml
+D:\Restangular.Poc\AngularJs.Training.Session3\obj\Debug\Restangular.Poc.csprojResolveAssemblyReference.cache
+D:\Restangular.Poc\AngularJs.Training.Session3\obj\Debug\Restangular.Poc.dll
+D:\Restangular.Poc\AngularJs.Training.Session3\obj\Debug\Restangular.Poc.pdb
+D:\Restangular.Poc\Restangular.Poc\bin\Restangular.Poc.dll
+D:\Restangular.Poc\Restangular.Poc\bin\Restangular.Poc.pdb
+D:\Restangular.Poc\Restangular.Poc\bin\AspNet.ScriptManager.jQuery.dll
+D:\Restangular.Poc\Restangular.Poc\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.AspNet.dll
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.Core.dll
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OAuth.dll
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OpenId.dll
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Restangular.Poc\Restangular.Poc\bin\EntityFramework.dll
+D:\Restangular.Poc\Restangular.Poc\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Restangular.Poc\Restangular.Poc\bin\Microsoft.Web.Infrastructure.dll
+D:\Restangular.Poc\Restangular.Poc\bin\System.Web.Providers.dll
+D:\Restangular.Poc\Restangular.Poc\bin\EntityFramework.xml
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.Core.xml
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OAuth.xml
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OpenId.xml
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Restangular.Poc\Restangular.Poc\bin\DotNetOpenAuth.AspNet.xml
+D:\Restangular.Poc\Restangular.Poc\obj\Debug\Restangular.Poc.csprojResolveAssemblyReference.cache
+D:\Restangular.Poc\Restangular.Poc\obj\Debug\Restangular.Poc.dll
+D:\Restangular.Poc\Restangular.Poc\obj\Debug\Restangular.Poc.pdb
+D:\Projects\DynamicSiteGenerator\07 POC\Restangular.Demo.Poc\Restangular.Poc\bin\Restangular.Poc.dll
+D:\Projects\DynamicSiteGenerator\07 POC\Restangular.Demo.Poc\Restangular.Poc\bin\Restangular.Poc.pdb
+D:\Projects\DynamicSiteGenerator\07 POC\Restangular.Demo.Poc\Restangular.Poc\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\DynamicSiteGenerator\07 POC\Restangular.Demo.Poc\Restangular.Poc\obj\Debug\Restangular.Poc.dll
+D:\Projects\DynamicSiteGenerator\07 POC\Restangular.Demo.Poc\Restangular.Poc\obj\Debug\Restangular.Poc.pdb
+D:\Projects\DynamicSiteGenerator\07 POC\Restangular.Demo.Poc\Restangular.Poc\bin\Microsoft.Web.Infrastructure.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Restangular.Poc.dll.config
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Restangular.Poc.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Restangular.Poc.pdb
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\AspNet.ScriptManager.jQuery.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.AspNet.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.Core.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OAuth.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OpenId.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\EntityFramework.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Microsoft.Web.Infrastructure.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\System.Web.Providers.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Org.Mentalis.Security.Cryptography.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Mono.Math.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\EntityFramework.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.Core.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OAuth.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OpenId.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\DotNetOpenAuth.AspNet.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Org.Mentalis.Security.Cryptography.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\bin\Mono.Math.xml
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\obj\Debug\Restangular.Poc.csprojResolveAssemblyReference.cache
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\obj\Debug\Restangular.Poc.dll
+F:\lalit\DynamicSiteGenerator\07 POC\Restangular.Demo\Restangular.Poc\obj\Debug\Restangular.Poc.pdb

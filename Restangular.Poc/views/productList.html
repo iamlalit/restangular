@@ -1,0 +1,21 @@
+﻿<div>
+    <div class="table-responsive">       
+        <a href="#/new">Add Product</a><br />
+        <table class="table table-bordered">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+            <tr ng-repeat="item in productsList">
+                <td>{{item.Id}}</td>
+                <td>{{item.Name}}</td>
+                <td>{{item.Category}}</td>
+                <td>${{item.Price}}</td>
+                <td><a href="#/edit/{{item.Id}}">Edit</a></td>
+            </tr>
+        </table>
+    </div>
+</div>
