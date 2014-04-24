@@ -1,0 +1,4 @@
+restangular
+===========
+
+Contains restangular implementation.
